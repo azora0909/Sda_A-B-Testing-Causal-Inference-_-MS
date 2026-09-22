@@ -4,6 +4,11 @@
 
 [View the analysis](Final_Project_AB_Testing.ipynb) · [Explore the data](ab_test_data.csv) · [SDAIA Academy](https://github.com/SDAIAAcademy)
 
+## Collaborators
+
+- [Azora (@azora0909)](https://github.com/azora0909)
+- [@saudaldukhyil-psg](https://github.com/saudaldukhyil-psg)
+
 ## Project Overview
 This project evaluates whether a redesigned landing page for an online learning platform increases new-user registration conversion.
 
